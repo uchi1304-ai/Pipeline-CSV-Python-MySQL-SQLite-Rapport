@@ -1,0 +1,4 @@
+RAPPORT PATIENT
+Pouls max : 120
+Tension moyenne : 129.88
+Valeur aberrante détectée : 120
